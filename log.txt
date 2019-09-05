@@ -1,0 +1,11 @@
+[Tue Sep 04 11:21:21.080682 2019] [mpm_event:notice] [pid 10600:tid 140691661683648] AH00489: Apache/2.4.38 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 03 11:21:21.081002 2019] [core:notice] [pid 10600:tid 140691661683648] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Sep 03 11:26:28.502450 2019] [mpm_event:notice] [pid 10600:tid 140691661683648] AH00491: caught SIGTERM, shutting down
+[Tue Sep 03 11:27:29.935336 2019] [mpm_event:notice] [pid 966:tid 140509684976576] AH00489: Apache/2.4.38 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 03 11:27:29.977617 2019] [core:notice] [pid 966:tid 140509684976576] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Sep 03 11:40:53.986888 2019] [mpm_event:notice] [pid 966:tid 140509684976576] AH00491: caught SIGTERM, shutting down
+[Tue Sep 03 11:40:54.095826 2019] [mpm_prefork:notice] [pid 12622] AH00163: Apache/2.4.38 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 03 11:40:54.095998 2019] [core:notice] [pid 12622] AH00094: Command line: '/usr/sbin/apache2'
+[Tue Sep 03 11:40:54.706649 2019] [mpm_prefork:notice] [pid 12622] AH00169: caught SIGTERM, shutting down
+[Tue Sep 03 11:40:54.830074 2019] [mpm_prefork:notice] [pid 12700] AH00163: Apache/2.4.38 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 03 11:40:54.830166 2019] [core:notice] [pid 12700] AH00094: Command line: '/usr/sbin/apache2'
